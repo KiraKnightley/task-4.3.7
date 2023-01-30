@@ -1,0 +1,24 @@
+h1{
+    margin: 20px auto;
+    width: 370px;
+}
+
+.main_input{
+    border: 1px solid #ccc;
+    display: block;
+    height: 30px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.container{
+    border: 1px solid black;
+    height: 110px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.item{
+    padding: 5px 0 5px 10px;
+}
